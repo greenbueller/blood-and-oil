@@ -1,13 +1,13 @@
 state={
-	id=802
-	name="STATE_802"
+	id=801
+	name="STATE_801"
 history={
 		owner = PER
 		add_core_of = PER
 }
 	provinces={
-		7990 10759 10890 12739 12852 
+		1888 1957 2000 5029 5073 10806 
 	}
-	manpower=0
+	manpower=353246
 	buildings_max_level_factor=1.000
 }

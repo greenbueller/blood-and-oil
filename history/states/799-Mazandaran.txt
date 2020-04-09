@@ -6,8 +6,8 @@ history={
 		add_core_of = PER
 }
 	provinces={
-		4580 4637 10768 
+		4580 4637 10768 7602 10385 
 	}
-	manpower=0
+	manpower=1680000
 	buildings_max_level_factor=1.000
 }

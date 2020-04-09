@@ -8,6 +8,6 @@ history={
 	provinces={
 		5098 12773 
 	}
-	manpower=0
+	manpower=785000
 	buildings_max_level_factor=1.000
 }

@@ -4,10 +4,19 @@ state={
 history={
 		owner = PER
 		add_core_of = PER
+buildings = {
+			infrastructure = 2
+			7982 = {
+				naval_base = 4
+
+			}
+			
+
+		}
 }
 	provinces={
 		1889 4959 7982 
 	}
-	manpower=0
+	manpower= 229654
 	buildings_max_level_factor=1.000
 }
